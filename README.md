@@ -2,7 +2,7 @@
 
 ## Introduction
 
-After completing my previous security-focused projects, I wanted to expand my knowledge into another critical area of cybersecurity: firewall technologies, network security, and traffic filtering.
+After completing my previous security-focused projects, I wanted to expand my knowledge into another critical area of cybersecurity: firewall technologies, network defense, and traffic filtering.
 
 This repository documents my learning journey through firewall fundamentals, firewall administration, network traffic filtering, firewall evasion techniques, and security monitoring from a SOC analyst perspective.
 
